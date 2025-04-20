@@ -1,15 +1,17 @@
+
 body {
-    font-family: 'Helvetica Neue', sans-serif;
-    background: #f5f7fa;
-    color: #333;
-    margin: 0;
-    padding: 20px;
+  font-family: 'Segoe UI', sans-serif;
+  background: #f4f7fa;
+  color: #333;
+  text-align: center;
+  padding: 2rem;
 }
-#app {
-    max-width: 600px;
-    margin: auto;
+h1 {
+  color: #1e293b;
 }
-header h1 {
-    text-align: center;
-    font-size: 2rem;
+a {
+  display: inline-block;
+  margin: 1rem;
+  color: #2563eb;
+  text-decoration: none;
 }
